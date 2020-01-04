@@ -2,7 +2,7 @@
 ### 1. BERT, ELMo, GPT
 
 - BERT, ELMo, GPT architecture 차이점	
-    ![BERT, ELMo, GPT architecture 차이점](./NLP/pic/BERT_1.png)
+    ![BERT, ELMo, GPT architecture 차이점](/pic/BERT_1.png)
 
   - GPT : 단어 시퀀스를 왼쪽에서 오른쪽으로 한 방향으로만 보는 모델 ← 언어모델이기 때문에
   - ELMo : Bi-LSTM 레이어의 상단은 양방향이지만 중간 레이어는 한 방향인 모델
@@ -12,13 +12,13 @@
 
   - 단방향 언어모델 : `나는 어제 ______ ` 
     
-                            ​→
+                            ​ →
 
     - 기존 언어 모델 : 주어진 시퀀스 다음 단어를 예측하는 과정에서 학습
 
   - 양방향 언어모델 : `나는 어제 ______ 먹었다 `
 
-                             ​→         ←
+                             ​ →         ←
 
     - 마스크 언어 모델 (BERT) : 문장 전체를 모델에 알려주고, 빈칸(MASK)에 해당하는 단어가 어떤 단어일지 얘측하는 과정에서 학습
 
