@@ -2,7 +2,7 @@
 ### 1. BERT, ELMo, GPT
 
 - BERT, ELMo, GPT architecture 차이점	
-    ![](./NLP/pic/1.png)
+    ![](./NLP/pic/BERT_1.png)
 
   - GPT : 단어 시퀀스를 왼쪽에서 오른쪽으로 한 방향으로만 보는 모델 ← 언어모델이기 때문에
   - ELMo : Bi-LSTM 레이어의 상단은 양방향이지만 중간 레이어는 한 방향인 모델
