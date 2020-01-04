@@ -1,5 +1,5 @@
 # 5장. 문장 수준 임베딩 : BERT
-[TOC]
+
 ## BERT
 ### 1. BERT, ELMo, GPT
 
