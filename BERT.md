@@ -2,7 +2,7 @@
 ### 1. BERT, ELMo, GPT
 
 - BERT, ELMo, GPT architecture 차이점	
-    ![](./NLP/pic/BERT_1.png)
+    ![BERT, ELMo, GPT architecture 차이점](./NLP/pic/BERT_1.png)
 
   - GPT : 단어 시퀀스를 왼쪽에서 오른쪽으로 한 방향으로만 보는 모델 ← 언어모델이기 때문에
   - ELMo : Bi-LSTM 레이어의 상단은 양방향이지만 중간 레이어는 한 방향인 모델
@@ -49,14 +49,14 @@
 ### 3. BERT 모델의 구조
 
 - BERT의 입력 레이어	
-    ![모델 구성도](/pic/BERT_2.png)
+    ![BERT의 입력 레이어](/pic/BERT_2.PNG)
   - 토큰 임베딩 : 입력 토큰에 해당하는 토큰 벡터를 참조한 임베딩
   - 세그먼트 임베딩 : 첫번째 문장인지, 두번째 문장인지에 해당하는 임베딩
   - 포지션 임베딩 : 입력 토큰의 문장 내 절대적인 위치에 해당하는 임베딩
 
 - 활성함수 : GELU 사용 → 정규분포의 누적분포함수인 GELU는 ReLU보다 0 주위에서 부드럽게 변화해 학습성능 ↑
 
-  ![모델 구성도](/pic/BERT_3.png)
+  ![GELU](/pic/BERT_3.png)
 
 - 예측 레이어 사용 →  마스크 언어모델, NSP 과제를 수행하기 위함.
 
