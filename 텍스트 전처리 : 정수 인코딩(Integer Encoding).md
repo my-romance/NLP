@@ -260,3 +260,6 @@ print(tokenizer.texts_to_sequences(sentences))
 
 빈도수 상위 5개의 단어는 2 ~ 6까지의 인덱스를 가졌으며, 그 외 단어 집합에 없는 'good'과 같은 단어들은 전부 'OOV'의 인덱스인 1로 인코딩됨
 
+### 출처
+
+- https://wikidocs.net/31766
