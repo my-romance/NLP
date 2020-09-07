@@ -108,9 +108,6 @@ print(one_hot)
 ```
 
 
-
-
-
 ### 원-핫 인코딩(One-hot Encoding)의 한계
 
 - **원-핫 인코딩의 단점**
