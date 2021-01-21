@@ -172,7 +172,7 @@ result :
 
 result : 
 
-<img src="https://raw.githubusercontent.com/my-romance/NLP/master/pic/distilBert3.png" alt="distilBert3" style="zoom:50%;" align="left"/>
+<img src="https://raw.githubusercontent.com/my-romance/NLP/master/pic/distilBert3.png" alt="distilBert3" style="zoom:30%;" align="left"/>
 
 
 
@@ -191,7 +191,7 @@ Inference time : a full pass time of GLUE task STS-B (sentiment analysis) on CPU
 
 result : 
 
-<img src="https://raw.githubusercontent.com/my-romance/NLP/master/pic/distilBert4.png" alt="distilBert4" style="zoom:50%;" align="left"/>
+<img src="https://raw.githubusercontent.com/my-romance/NLP/master/pic/distilBert4.png" alt="distilBert4" style="zoom:30%;" align="left"/>
 
 - DistilBERT has 40% fewer parameters than BERT and is 60% faster than BERT
 
