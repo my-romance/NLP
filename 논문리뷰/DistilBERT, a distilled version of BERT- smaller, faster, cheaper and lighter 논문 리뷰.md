@@ -76,14 +76,17 @@ at infernece, $T$ is to 1 to recover a standard softmax
     - softmax
 
       <img src="https://t1.daumcdn.net/cfile/tistory/999CD3435DCE569E1D" alt="img" style="zoom:90%;" align='left' />
+      <br>
 
     - softmax-temperature ($T$ = 2)
 
       <img src="https://t1.daumcdn.net/cfile/tistory/998A48435DCE569E14" alt="img" style="zoom:90%;" align='left'/>
+      <br>
 
     - softmax-temperature ($T$ = 10)
 
       <img src="https://t1.daumcdn.net/cfile/tistory/99DCEB435DCE569F24" alt="img" style="zoom:90%;" align='left'/>
+       <br>
 
     
 
