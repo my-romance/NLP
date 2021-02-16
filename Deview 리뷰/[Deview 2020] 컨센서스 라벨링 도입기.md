@@ -193,3 +193,9 @@
   <img src="/Users/aiden/Library/Application Support/typora-user-images/image-20210217020413473.png" alt="image-20210217020413473" style="zoom:50%;" />
 
   
+
+## 참고자료
+
+- [발표자료](https://deview.kr/data/deview/session/attach/DEVIEW2020_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%9D%BC%EB%B2%A8%EB%A7%81%20%EB%84%88%EB%AC%B4%20%EA%B7%80%EC%B0%AE%EC%95%84%EC%9A%94_%EC%8B%A0%EC%9C%A4%EC%8B%9D.pdf)
+- [발표영상](https://tv.naver.com/v/16969174)
+
